@@ -1,0 +1,41 @@
+   {
+         "song1" : {
+            "song" : "SWEET / I THOUGHT YOU WANTED TO DANCE",
+            "artist" : "Tyler the Creator",
+            "genre" : "hiphop",
+            "link" : "https://www.youtube.com/watch?v=ZKjIHQxG_3Q",
+            "id" : 1
+         },
+      
+         "song2" : {
+            "song" : "ERE",
+            "artist" : "Juan Karlos",
+            "genre" : "alternative",
+            "link" : "https://www.youtube.com/watch?v=Ohf3czrhCSY",
+            "id": 2
+         },
+      
+         "song3" : {
+            "song" : "Mossa Downtown",
+            "artist" : "Hev Abi",
+            "genre" : "hiphop",
+            "link" : "https://www.youtube.com/watch?v=w3IGrm9ucFE",
+            "id": 3
+         },
+
+         "song4" : {
+            "song" : "Malaking P",
+            "artist" : "E.J",
+            "genre" : "hiphop",
+            "link" : "https://www.youtube.com/watch?v=qBBkpwb2jXo",
+            "id": 4
+         },
+      
+         "song5" : {
+            "song" : "LWKY",
+            "artist" : "Teys",
+            "genre" : "hiphop",
+            "link" : "https://www.youtube.com/watch?v=-Ckq6y0b4TQ",
+            "id": 5
+         }
+   }
